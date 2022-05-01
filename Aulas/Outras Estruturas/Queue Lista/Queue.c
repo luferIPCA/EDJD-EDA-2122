@@ -85,7 +85,7 @@ Control *Dequeue(Control*ht) {
 	if (ht->head != NULL) 
 	{
 		//auxHead = ht->head;
-		ht->head = auxHead->next;
+		ht->head = auxHead->next; 	//ou ht->head = ht->head->next;
 		auxHead->next = NULL;
 		free(auxHead);
 	}

@@ -6,7 +6,7 @@
 // <author>lufer</author>
 // <email></email>
 // <version></version>
-// <desc>Manipular Stack com Listas</desc>
+// <desc>Manipular Stack com Listas (LIFO)</desc>
 //-----------------------------------------------------------------------
 
 

@@ -1,0 +1,26 @@
+var _listas_v1_8c =
+[
+    [ "AlteraJogo", "_listas_v1_8c.html#ae3828269efa57af8170a95adecfa3acc", null ],
+    [ "AlteraJogoPtr", "_listas_v1_8c.html#a1172fedb0558ed379209866e5ebff17f", null ],
+    [ "ConsList", "_listas_v1_8c.html#aa6627565918ffefec4b20c9e96d39367", null ],
+    [ "ConsListRec", "_listas_v1_8c.html#a546393d612332999fafc32a057c835ba", null ],
+    [ "ConsListRecII", "_listas_v1_8c.html#a9759b516bb98cc7f9281d72237dd7f56", null ],
+    [ "ContaJogos", "_listas_v1_8c.html#af3347cdaa64448fddad8382eaaeac1df", null ],
+    [ "ContaJogosArray", "_listas_v1_8c.html#aebf12a86a4a85d46de42593cc46accec", null ],
+    [ "criaJogo", "_listas_v1_8c.html#a3cd7524736ba1f94734a07469a0f1ed4", null ],
+    [ "DestroiLista", "_listas_v1_8c.html#aa078734b2f4c8552ca0ee5332b41744a", null ],
+    [ "ExisteJogo", "_listas_v1_8c.html#a9abb38ed654ed1d4fb6b047b117f1c98", null ],
+    [ "ExisteJogoRecursivo", "_listas_v1_8c.html#a7f8d9a635ea59e2c1dca030e5707e3de", null ],
+    [ "gravarJogoBinario", "_listas_v1_8c.html#afb3c6ce7a355980ebdac38f3a12acdef", null ],
+    [ "InsereJogoFim", "_listas_v1_8c.html#a13cee507ff7d833ec1cd49144c2291ae", null ],
+    [ "InsereJogoInicio", "_listas_v1_8c.html#a0873a67048eea141a13a5c74de83122d", null ],
+    [ "InsereJogoOrdenado", "_listas_v1_8c.html#a46df915fae407abad554086b2ae7832e", null ],
+    [ "lerJogosBinario", "_listas_v1_8c.html#a497da6796c7157558395425ec2c54d07", null ],
+    [ "MostraJogo", "_listas_v1_8c.html#ab5795a2ff1e0673bef31612ac8cd9438", null ],
+    [ "MostraLista", "_listas_v1_8c.html#aaf12460a91db8510c4f0882890002a92", null ],
+    [ "OrdenaLista", "_listas_v1_8c.html#ae0e72ef6cf68bcd716a1be5d493ca01d", null ],
+    [ "ProcuraJogo", "_listas_v1_8c.html#af0345f17c4eb67e9c2e10249576e9ee1", null ],
+    [ "ProcuraJogoPtr", "_listas_v1_8c.html#aabd8aeaa7e81ec44fe99f8bdb225f854", null ],
+    [ "RemoveJogo", "_listas_v1_8c.html#a07194c6087e865c278955ce27f121023", null ],
+    [ "RemoveJogoRecursivo", "_listas_v1_8c.html#abe90c60c2269399124cf25a33cd3b6af", null ]
+];

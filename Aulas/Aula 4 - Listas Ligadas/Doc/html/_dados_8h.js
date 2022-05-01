@@ -1,0 +1,26 @@
+var _dados_8h =
+[
+    [ "Jogo", "struct_jogo.html", "struct_jogo" ],
+    [ "JogoFile", "struct_jogo_file.html", "struct_jogo_file" ],
+    [ "N", "_dados_8h.html#a0240ac851181b84ac374872dc5434ee4", null ],
+    [ "Jogo", "_dados_8h.html#a49d06ef16b0202ad2e5e8bc8729c4e5b", null ],
+    [ "JogoFile", "_dados_8h.html#aae168f9dd1f756b1e83798fb21582073", null ],
+    [ "JogoPtr", "_dados_8h.html#a925a417008d5eac8d557ed5aa80fc95e", null ],
+    [ "AlteraJogo", "_dados_8h.html#ae3828269efa57af8170a95adecfa3acc", null ],
+    [ "AlteraJogoPtr", "_dados_8h.html#a1172fedb0558ed379209866e5ebff17f", null ],
+    [ "criaJogo", "_dados_8h.html#a3cd7524736ba1f94734a07469a0f1ed4", null ],
+    [ "DestroiLista", "_dados_8h.html#aa078734b2f4c8552ca0ee5332b41744a", null ],
+    [ "ExisteJogo", "_dados_8h.html#a9abb38ed654ed1d4fb6b047b117f1c98", null ],
+    [ "ExisteJogoRecursivo", "_dados_8h.html#a7f8d9a635ea59e2c1dca030e5707e3de", null ],
+    [ "gravarJogoBinario", "_dados_8h.html#afb3c6ce7a355980ebdac38f3a12acdef", null ],
+    [ "InsereJogoFim", "_dados_8h.html#a13cee507ff7d833ec1cd49144c2291ae", null ],
+    [ "InsereJogoInicio", "_dados_8h.html#a0873a67048eea141a13a5c74de83122d", null ],
+    [ "InsereJogoOrdenado", "_dados_8h.html#a46df915fae407abad554086b2ae7832e", null ],
+    [ "lerJogosBinario", "_dados_8h.html#a497da6796c7157558395425ec2c54d07", null ],
+    [ "MostraJogo", "_dados_8h.html#ab5795a2ff1e0673bef31612ac8cd9438", null ],
+    [ "MostraLista", "_dados_8h.html#aaf12460a91db8510c4f0882890002a92", null ],
+    [ "OrdenaLista", "_dados_8h.html#ae0e72ef6cf68bcd716a1be5d493ca01d", null ],
+    [ "ProcuraJogo", "_dados_8h.html#af0345f17c4eb67e9c2e10249576e9ee1", null ],
+    [ "RemoveJogo", "_dados_8h.html#a07194c6087e865c278955ce27f121023", null ],
+    [ "headLista", "_dados_8h.html#af71bc0f615eceb6a57a67dc99b75b86e", null ]
+];
