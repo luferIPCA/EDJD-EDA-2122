@@ -2,9 +2,9 @@
 *  @file Pessoa.h
  * @author lufer
  * @date 2022
- * @brief Lista Ligadas Simples (versão 1)
+ * @brief Lista Ligadas Genéricas (versão 1)
  *
- * Dados globais para uma Lista Ligada Simples de Pessoas
+ * Dados globais para uma Lista Ligada Generica de Pessoas
  * @bug No known bugs.
 */
 #pragma once
