@@ -1,6 +1,6 @@
 /*****************************************************************//**
  * @file   btree.h
- * @brief  Árvores Binárias de Procura - (Binary Search Tree )
+ * @brief  Árvores Binárias de Procura (ABP) - (Binary Search Tree (BST))
  * 
  * @author  lufer
  * @email	lufer@ipca.pt
