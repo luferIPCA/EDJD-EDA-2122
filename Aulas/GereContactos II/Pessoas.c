@@ -2,9 +2,9 @@
 *  @file Pessoas.c
  * @author lufer
  * @date 2022
- * @brief Lista Ligadas Simples (versão 1)
+ * @brief Lista Ligadas Genéricas (versão 1)
  *
- * Metodos para manipular uma Lista Ligada Simples de Pessoas
+ * Metodos para manipular uma Lista Ligada Genéricas de Pessoas
  * @bug No known bugs.
 */
 #include "Pessoa.h"
