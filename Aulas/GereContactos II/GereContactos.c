@@ -2,7 +2,7 @@
 *  @file GereContactos.c
  * @author lufer
  * @date 2022
- * @brief Lista Ligadas Simples (versão 1)
+ * @brief Lista Ligadas Genéricas (versão 1)
  *
  * Metodos para manipular uma Lista Ligada Simples de Contactos
  * @bug No known bugs.

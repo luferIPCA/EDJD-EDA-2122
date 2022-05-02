@@ -2,9 +2,9 @@
 *  @file GereContactos.c
  * @author lufer
  * @date 2022
- * @brief Lista Ligadas Simples (versão 1)
+ * @brief Árvore Binária de Procura 
  *
- * Metodos para manipular uma Lista Ligada Simples de Contactos
+ * Metodos para manipular uma Árvore Binária de Procura de Pessoas
  * @bug No known bugs.
 */
 #include "Contatos.h"
