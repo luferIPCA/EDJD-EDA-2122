@@ -14,8 +14,10 @@ ListElem* addItemHead(ListElem* head, void *data) {
 	
 	aux->data = data;
 	aux->next = head;	//Insere à cabeça
+
+	head = aux;
 	
-	return aux;			//atualiza head
+	return head;			//atualiza head
 }
 
 ListElem* addItemLastRecursive(ListElem* head, void *data) {
@@ -109,7 +111,6 @@ ListElem* removeItemRecursive(ListElem* head, void *data, int (*compare)(void *d
 		return head;
 	}
 }
-
 
 ListElem* addItemOrderedIterative(ListElem* head, void *data, int (*compare)(void *data1, void *data2)) {
 	ListElem* n, *aux;

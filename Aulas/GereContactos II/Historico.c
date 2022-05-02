@@ -31,10 +31,21 @@ ListElem* addItemHead(ListElem* head, void* data) {
 	return head;
 }
 
+/**
+ * @brief .
+ * 
+ * @return 
+ */
 ListElem* CriaListaHistorico() {
 	return NULL;
 }
 
+/**
+ * @brief .
+ * 
+ * @param head
+ * @param show
+ */
 void Show(ListElem* head, void (*show)(void* data)) {
 	while (head != NULL) {
 		show(head->data);

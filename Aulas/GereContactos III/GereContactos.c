@@ -63,6 +63,7 @@ int main() {
 	MostraTodasPessoas(inicio);
 	puts("\nHistórico\n");
 	ShowTree(historico, ShowPessoa);	//mesmo que &ShowPessoa
+
 	inicio = RemovePessoaABP(inicio, 1, &historico);
 	puts("\nApós Remoção (II)\n");
 	MostraTodasPessoas(inicio);

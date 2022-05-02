@@ -6,9 +6,38 @@
 
 #pragma warning( disable : 4996 ) //evita MSG ERROS: _CRT_SECURE_NO_WARNINGS
 
+void MostraInteiro(void* d) {
+	int x = (int)d;
+	printf("X=%d\n", x);
+}
+
+int ComparaInt(void* v1, void* v2) {
+	int x = (int)v1;
+	int y = (int)v2;
+	return (x - y);
+
+}
+
 void main()
 {
 
+#pragma Lista Generica Inteiros
+
+	ListElem* listInt = NULL;
+
+	ListElem* aux = (ListElem*)malloc(sizeof(ListElem));
+	aux->data = 2;
+	aux->next = NULL;
+
+	listInt = addItemHead(listInt, 2);
+
+	listInt = addItemOrderedRecursive(listInt, 1, &ComparaInt);
+	listInt = addItemOrderedRecursive(listInt, 3, &ComparaInt);
+
+	showListIterative(listInt, &MostraInteiro);
+
+
+#pragma endregion
 
 #pragma region ListasGenericas
 
@@ -51,7 +80,7 @@ void main()
 	 j->preferencias[3].pontuacao = 0;
 	 strcpy(j->preferencias[4].arma,"-");
 	 j->preferencias[4].pontuacao = 0;
-	 //lista = addItemHead(lista,j);
+	 lista = addItemHead(lista,j);
 	 lista = addItemOrderedIterative(lista, j, &compararNomes);
 
 	 j = (Jogador) malloc(sizeof(struct Dados));
