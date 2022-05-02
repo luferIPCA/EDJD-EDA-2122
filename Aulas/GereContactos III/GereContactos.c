@@ -2,7 +2,7 @@
 *  @file GereContactos.c
  * @author lufer
  * @date 2022
- * @brief Árvore Binária de Procura 
+ * @brief Árvore Binária de Procura  (ABP)
  *
  * Metodos para manipular uma Árvore Binária de Procura de Pessoas
  * @bug No known bugs.
