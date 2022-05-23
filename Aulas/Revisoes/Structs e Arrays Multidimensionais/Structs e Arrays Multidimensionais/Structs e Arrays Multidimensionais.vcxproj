@@ -116,8 +116,10 @@
     <ClCompile Include="arraysMulti.c" />
     <ClCompile Include="funcoes.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="more.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="more.h" />
     <ClInclude Include="Arrays.h" />
     <ClInclude Include="arraysMulti.h" />
     <ClInclude Include="funcoes.h" />
